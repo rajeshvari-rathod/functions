@@ -16,6 +16,19 @@ This project demonstrates several important Python programming concepts, includi
 - Loops and Conditional Statements
 
 ---
+# 📂 Project Structure
+
+```text
+Data-Analyzer-and-Transformer/
+│
+├── main.py
+├── output.png
+└── README.md
+
+
+## 📸 Program Output
+
+![Program Output](output.png)
 
 ## 🚀 Features
 
@@ -31,6 +44,22 @@ The program provides the following options:
 
 ---
 
+Use this Markdown directly in your README.md:
+
+# 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| **Python 3** | Programming Language |
+| **Lists** | 1D and 2D Data Storage |
+| **Built-in Functions** | Data Analysis |
+| **Recursion** | Factorial Calculation |
+| **Lambda Function** | Data Filtering |
+| **`sorted()`** | Data Sorting |
+| **Functions** | Program Organization |
+| **Loops** | Menu Control |
+| **Conditional Statements** | User Choice Handling |
+
 ## 📋 Main Menu
 
 ```text
@@ -45,11 +74,3 @@ Main Menu:
 7. Exit Program
 
 Please enter your choice number:
-
-
-Data-Analyzer-and-Transformer/
-│
-├── main.py
-│
-└── README.md
-
